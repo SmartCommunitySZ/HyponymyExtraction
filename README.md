@@ -20,21 +20,19 @@ HyponymyExtraction and Graph based on KB Schema, Baike-kb and online text extrac
 使用方式：进入extract_kb, 设定需要查询的词word，指定python kb_search.py, 会生成相应的html文件,为最终展示结果 
 # 结果展示　　
 苹果上下位
-![image](https://github.com/liuhuanyong/HyponymyExtraction/blob/master/image/concept-apple.png)
+![image](https://github.com/SmartCommunitySZ/HyponymyExtraction/blob/master/image/concept-apple.png)
 长江上下位
-![image](https://github.com/liuhuanyong/HyponymyExtraction/blob/master/image/concept-river.png)
+![image](https://github.com/SmartCommunitySZ/HyponymyExtraction/blob/master/image/concept-river.png)
 孔子上下位
-![image](https://github.com/liuhuanyong/HyponymyExtraction/blob/master/image/concept-kongzi.png)
+![image](https://github.com/SmartCommunitySZ/HyponymyExtraction/blob/master/image/concept-kongzi.png)
 
 
 # 2)基于在线百科的概念抽取
 使用方式：进入extract_baike要查询的词word，指定python Baike_search.py, 会生成相应的html文件,为最终展示结果 
 # 结果展示
 苹果上下位
-![image](https://github.com/liuhuanyong/HyponymyExtraction/blob/master/image/kb-apple.png)
+![image](https://github.com/SmartCommunitySZ/HyponymyExtraction/blob/master/image/kb-apple.png)
 小米上下位
-![image](https://github.com/liuhuanyong/HyponymyExtraction/blob/master/image/kb-xiaomi.png)
+![image](https://github.com/SmartCommunitySZ/HyponymyExtraction/blob/master/image/kb-xiaomi.png)
 姚明上下位
-![image](https://github.com/liuhuanyong/HyponymyExtraction/blob/master/image/kb-yaoming.png)
-
-If any question about the project or me ,see https://liuhuanyong.github.io/
+![image](https://github.com/SmartCommunitySZ/HyponymyExtraction/blob/master/image/kb-yaoming.png)
